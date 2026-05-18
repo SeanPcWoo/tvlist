@@ -1,342 +1,368 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 
-#EXTINF:-1 group-title="央视频道",CCTV1
+# ===== 央视频道 (18) =====
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV1
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.207:8000
-#EXTINF:-1 group-title="央视频道",CCTV2
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV2
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.50:9802
-#EXTINF:-1 group-title="央视频道",CCTV3
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV3
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.74:8000
-#EXTINF:-1 group-title="央视频道",CCTV4
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV4
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.51:9806
-#EXTINF:-1 group-title="央视频道",CCTV5
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV5
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.206:8000
-#EXTINF:-1 group-title="央视频道",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV5+
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.18:9610
-#EXTINF:-1 group-title="央视频道",CCTV6
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV6
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.76:8000
-#EXTINF:-1 group-title="央视频道",CCTV7
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道",CCTV7
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.126:8000
-#EXTINF:-1 group-title="央视频道",CCTV8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道",CCTV8
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.77:8000
-#EXTINF:-1 group-title="央视频道",CCTV9
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视频道",CCTV9
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.53:9814
-#EXTINF:-1 group-title="央视频道",CCTV10
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视频道",CCTV10
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.54:9818
-#EXTINF:-1 group-title="央视频道",CCTV11
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视频道",CCTV11
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.127:8000
-#EXTINF:-1 group-title="央视频道",CCTV12
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视频道",CCTV12
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.55:9822
-#EXTINF:-1 group-title="央视频道",CCTV13
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV13
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.109:8000
-#EXTINF:-1 group-title="央视频道",CCTV14
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视频道",CCTV14
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.56:9826
-#EXTINF:-1 group-title="央视频道",CCTV15
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道",CCTV15
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.128:8000
-#EXTINF:-1 group-title="央视频道",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV16
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.31:8000
-#EXTINF:-1 group-title="央视频道",CCTV17
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV17
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.132:6000
 
-#EXTINF:-1 group-title="4K频道",CCTV 4K
+# ===== 4K超高清 (13) =====
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="4K超高清",CCTV 4K
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.82:8000
-#EXTINF:-1 group-title="4K频道",CCTV16 4K
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="4K超高清",CCTV16 4K
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.109:8000
-#EXTINF:-1 group-title="4K频道",江苏卫视 4K
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="4K超高清",江苏卫视 4K
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.1.62:8000
-#EXTINF:-1 group-title="4K频道",东方卫视 4K
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="4K超高清",东方卫视 4K
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.1.70:8000
-#EXTINF:-1 group-title="4K频道",浙江卫视 4K
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="4K超高清",浙江卫视 4K
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.1.64:8000
-#EXTINF:-1 group-title="4K频道",湖南卫视 4K
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="4K超高清",湖南卫视 4K
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.1.68:8000
-#EXTINF:-1 group-title="4K频道",四川卫视 4K
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="4K超高清",四川卫视 4K
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.1.66:8000
-#EXTINF:-1 group-title="4K频道",山东卫视 4K
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="4K超高清",山东卫视 4K
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.1.72:8000
-#EXTINF:-1 group-title="4K频道",北京卫视 4K
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="4K超高清",北京卫视 4K
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.253:8000
-#EXTINF:-1 group-title="4K频道",广东卫视 4K
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="4K超高清",广东卫视 4K
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.1.26:8000
-#EXTINF:-1 group-title="4K频道",深圳卫视 4K
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="4K超高清",深圳卫视 4K
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.1.28:8000
-#EXTINF:-1 group-title="4K频道",欢笑剧场 4K
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="4K超高清",欢笑剧场 4K
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.106:8000
-#EXTINF:-1 group-title="4K频道",4KR
+#EXTINF:-1 tvg-id="4KR" tvg-name="4KR" tvg-logo="https://live.fanmingming.com/tv/4KR.png" group-title="4K超高清",4KR
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.82:8000
 
-#EXTINF:-1 group-title="卫视频道",湖南卫视
+# ===== 卫视频道 (47) =====
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.12:9418
-#EXTINF:-1 group-title="卫视频道",浙江卫视
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.20:9618
-#EXTINF:-1 group-title="卫视频道",浙江卫视备用
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视频道",浙江卫视备用
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.139:6000
-#EXTINF:-1 group-title="卫视频道",江苏卫视
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.16:9602
-#EXTINF:-1 group-title="卫视频道",江苏卫视备用
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视频道",江苏卫视备用
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.138:6000
-#EXTINF:-1 group-title="卫视频道",北京卫视
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.11:9414
-#EXTINF:-1 group-title="卫视频道",东方卫视
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视频道",东方卫视
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.17:9606
-#EXTINF:-1 group-title="卫视频道",东方卫视备用
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视频道",东方卫视备用
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.140:6000
-#EXTINF:-1 group-title="卫视频道",安徽卫视
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.80:8000
-#EXTINF:-1 group-title="卫视频道",安徽卫视备用
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视频道",安徽卫视备用
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.204:6000
-#EXTINF:-1 group-title="卫视频道",广东卫视
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视频道",广东卫视
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.13:9422
-#EXTINF:-1 group-title="卫视频道",深圳卫视
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.15:9430
-#EXTINF:-1 group-title="卫视频道",深圳卫视备用
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视频道",深圳卫视备用
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.145:6000
-#EXTINF:-1 group-title="卫视频道",辽宁卫视
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.48:8000
-#EXTINF:-1 group-title="卫视频道",海南卫视
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视频道",海南卫视
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.83:8000
-#EXTINF:-1 group-title="卫视频道",山东卫视
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视频道",山东卫视
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.7:9306
-#EXTINF:-1 group-title="卫视频道",天津卫视
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视频道",天津卫视
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.35:8620
-#EXTINF:-1 group-title="卫视频道",天津卫视备用
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视频道",天津卫视备用
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.148:6000
-#EXTINF:-1 group-title="卫视频道",重庆卫视
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.57:9830
-#EXTINF:-1 group-title="卫视频道",重庆卫视备用
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视频道",重庆卫视备用
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.149:6000
-#EXTINF:-1 group-title="卫视频道",东南卫视
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视频道",东南卫视
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.112:8000
-#EXTINF:-1 group-title="卫视频道",甘肃卫视
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.250:8000
-#EXTINF:-1 group-title="卫视频道",甘肃卫视备用
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视备用
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.172:8000
-#EXTINF:-1 group-title="卫视频道",广西卫视
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视频道",广西卫视
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.10:8000
-#EXTINF:-1 group-title="卫视频道",贵州卫视
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.49:8000
-#EXTINF:-1 group-title="卫视频道",河北卫视
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视频道",河北卫视
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.114:8000
-#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.14:9426
-#EXTINF:-1 group-title="卫视频道",河南卫视
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视频道",河南卫视
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.29:8000
-#EXTINF:-1 group-title="卫视频道",湖北卫视
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.8:9632
-#EXTINF:-1 group-title="卫视频道",江西卫视
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="卫视频道",江西卫视
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.111:8000
-#EXTINF:-1 group-title="卫视频道",吉林卫视
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.113:8000
-#EXTINF:-1 group-title="卫视频道",内蒙古卫视
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.180:8000
-#EXTINF:-1 group-title="卫视频道",宁夏卫视
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.171:8000
-#EXTINF:-1 group-title="卫视频道",宁夏卫视备用
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视备用
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.1.60:8000
-#EXTINF:-1 group-title="卫视频道",山西卫视
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视频道",山西卫视
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.67:8528
-#EXTINF:-1 group-title="卫视频道",山西卫视备用
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视频道",山西卫视备用
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.1.55:8000
-#EXTINF:-1 group-title="卫视频道",陕西卫视
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视频道",陕西卫视
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.233:8000
-#EXTINF:-1 group-title="卫视频道",四川卫视
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视频道",四川卫视
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.110:8000
-#EXTINF:-1 group-title="卫视频道",新疆卫视
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.178:8000
-#EXTINF:-1 group-title="卫视频道",新疆卫视备用
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="卫视频道",新疆卫视备用
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.1.57:8000
-#EXTINF:-1 group-title="卫视频道",云南卫视
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="卫视频道",云南卫视
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.177:8000
-#EXTINF:-1 group-title="卫视频道",青海卫视
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="卫视频道",青海卫视
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.81:8000
-#EXTINF:-1 group-title="卫视频道",青海卫视备用
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="卫视频道",青海卫视备用
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.69:8544
-#EXTINF:-1 group-title="卫视频道",西藏卫视
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.245:8000
-#EXTINF:-1 group-title="卫视频道",西藏卫视备用
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="卫视频道",西藏卫视备用
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.1.56:8000
-#EXTINF:-1 group-title="卫视频道",三沙卫视
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="卫视频道",三沙卫视
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.167:8000
-#EXTINF:-1 group-title="卫视频道",大湾区卫视
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="卫视频道",大湾区卫视
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.234:8000
-#EXTINF:-1 group-title="卫视频道",山东教育卫视
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.235:8000
-#EXTINF:-1 group-title="卫视频道",金鹰卡通
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.33:8000
-#EXTINF:-1 group-title="卫视频道",优漫卡通
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.119:8000
-#EXTINF:-1 group-title="卫视频道",优漫卡通备用
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.21:8160
 
-#EXTINF:-1 group-title="教育频道",CETV1
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.115:8000
-#EXTINF:-1 group-title="教育频道",CETV2
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.71:8560
-#EXTINF:-1 group-title="教育频道",CETV4
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.125:8000
-#EXTINF:-1 group-title="教育频道",空中课堂
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.72:8568
-#EXTINF:-1 group-title="国际频道",CGTN
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.9:8064
-#EXTINF:-1 group-title="国际频道",CGTN俄语
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.111:8000
-
-#EXTINF:-1 group-title="江苏频道",江苏体育休闲
+# ===== 江苏频道 (7) =====
+#EXTINF:-1 tvg-id="江苏体育休闲" tvg-name="江苏体育休闲" tvg-logo="https://live.fanmingming.com/tv/江苏体育休闲.png" group-title="江苏频道",江苏体育休闲
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.117:8000
-#EXTINF:-1 group-title="江苏频道",江苏公共新闻
+#EXTINF:-1 tvg-id="江苏公共新闻" tvg-name="江苏公共新闻" tvg-logo="https://live.fanmingming.com/tv/江苏公共新闻.png" group-title="江苏频道",江苏公共新闻
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.120:8000
-#EXTINF:-1 group-title="江苏频道",江苏城市
+#EXTINF:-1 tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png" group-title="江苏频道",江苏城市
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.107:8000
-#EXTINF:-1 group-title="江苏频道",江苏影视
+#EXTINF:-1 tvg-id="江苏影视" tvg-name="江苏影视" tvg-logo="https://live.fanmingming.com/tv/江苏影视.png" group-title="江苏频道",江苏影视
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.118:8000
-#EXTINF:-1 group-title="江苏频道",江苏教育
+#EXTINF:-1 tvg-id="江苏教育" tvg-name="江苏教育" tvg-logo="https://live.fanmingming.com/tv/江苏教育.png" group-title="江苏频道",江苏教育
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.122:8000
-#EXTINF:-1 group-title="江苏频道",江苏综艺
+#EXTINF:-1 tvg-id="江苏综艺" tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.com/tv/江苏综艺.png" group-title="江苏频道",江苏综艺
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.108:8000
-#EXTINF:-1 group-title="江苏频道",江苏国际
+#EXTINF:-1 tvg-id="江苏国际" tvg-name="江苏国际" tvg-logo="https://live.fanmingming.com/tv/江苏国际.png" group-title="江苏频道",江苏国际
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.22:8168
 
-#EXTINF:-1 group-title="江苏地方",南京新闻综合
+# ===== 江苏地方 (16) =====
+#EXTINF:-1 tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="https://live.fanmingming.com/tv/南京新闻综合.png" group-title="江苏地方",南京新闻综合
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.25:8192
-#EXTINF:-1 group-title="江苏地方",南京科教
+#EXTINF:-1 tvg-id="南京科教" tvg-name="南京科教" tvg-logo="https://live.fanmingming.com/tv/南京科教.png" group-title="江苏地方",南京科教
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.183:9434
-#EXTINF:-1 group-title="江苏地方",南京生活
+#EXTINF:-1 tvg-id="南京生活" tvg-name="南京生活" tvg-logo="https://live.fanmingming.com/tv/南京生活.png" group-title="江苏地方",南京生活
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.184:9438
-#EXTINF:-1 group-title="江苏地方",南京信息
+#EXTINF:-1 tvg-id="南京信息" tvg-name="南京信息" tvg-logo="https://live.fanmingming.com/tv/南京信息.png" group-title="江苏地方",南京信息
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.75:8000
-#EXTINF:-1 group-title="江苏地方",南京影视
+#EXTINF:-1 tvg-id="南京影视" tvg-name="南京影视" tvg-logo="https://live.fanmingming.com/tv/南京影视.png" group-title="江苏地方",南京影视
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.24:8000
-#EXTINF:-1 group-title="江苏地方",南京娱乐
+#EXTINF:-1 tvg-id="南京娱乐" tvg-name="南京娱乐" tvg-logo="https://live.fanmingming.com/tv/南京娱乐.png" group-title="江苏地方",南京娱乐
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.229:6000
-#EXTINF:-1 group-title="江苏地方",南京娱乐备用
+#EXTINF:-1 tvg-id="南京娱乐" tvg-name="南京娱乐" tvg-logo="https://live.fanmingming.com/tv/南京娱乐.png" group-title="江苏地方",南京娱乐备用
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.38:8000
-#EXTINF:-1 group-title="江苏地方",南京少儿
+#EXTINF:-1 tvg-id="南京少儿" tvg-name="南京少儿" tvg-logo="https://live.fanmingming.com/tv/南京少儿.png" group-title="江苏地方",南京少儿
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.230:6000
-#EXTINF:-1 group-title="江苏地方",南京少儿备用
+#EXTINF:-1 tvg-id="南京少儿" tvg-name="南京少儿" tvg-logo="https://live.fanmingming.com/tv/南京少儿.png" group-title="江苏地方",南京少儿备用
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.45:8000
-#EXTINF:-1 group-title="江苏地方",南京十八生活
+#EXTINF:-1 tvg-id="南京十八生活" tvg-name="南京十八生活" tvg-logo="https://live.fanmingming.com/tv/南京十八生活.png" group-title="江苏地方",南京十八生活
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.26:8200
-#EXTINF:-1 group-title="江苏地方",苏州5
+#EXTINF:-1 tvg-id="苏州5" tvg-name="苏州5" tvg-logo="https://live.fanmingming.com/tv/苏州5.png" group-title="江苏地方",苏州5
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.116:8000
-#EXTINF:-1 group-title="江苏地方",泰州1
+#EXTINF:-1 tvg-id="泰州1" tvg-name="泰州1" tvg-logo="https://live.fanmingming.com/tv/泰州1.png" group-title="江苏地方",泰州1
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.215:8000
-#EXTINF:-1 group-title="江苏地方",盐城1
+#EXTINF:-1 tvg-id="盐城1" tvg-name="盐城1" tvg-logo="https://live.fanmingming.com/tv/盐城1.png" group-title="江苏地方",盐城1
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.30:8000
-#EXTINF:-1 group-title="江苏地方",盐城2
+#EXTINF:-1 tvg-id="盐城2" tvg-name="盐城2" tvg-logo="https://live.fanmingming.com/tv/盐城2.png" group-title="江苏地方",盐城2
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.88:8000
-#EXTINF:-1 group-title="江苏地方",盐城3
+#EXTINF:-1 tvg-id="盐城3" tvg-name="盐城3" tvg-logo="https://live.fanmingming.com/tv/盐城3.png" group-title="江苏地方",盐城3
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.91:8000
-#EXTINF:-1 group-title="江苏地方",宿豫综合
+#EXTINF:-1 tvg-id="宿豫综合" tvg-name="宿豫综合" tvg-logo="https://live.fanmingming.com/tv/宿豫综合.png" group-title="江苏地方",宿豫综合
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.136:9976
 
-#EXTINF:-1 group-title="数字频道",CCTV兵器科技
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.88:8000
-#EXTINF:-1 group-title="数字频道",CCTV第一剧场
+# ===== 影视剧场 (4) =====
+#EXTINF:-1 tvg-id="CCTV第一剧场" tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.com/tv/CCTV第一剧场.png" group-title="影视剧场",CCTV第一剧场
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.94:8000
-#EXTINF:-1 group-title="数字频道",CCTV风云剧场
+#EXTINF:-1 tvg-id="CCTV风云剧场" tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.com/tv/CCTV风云剧场.png" group-title="影视剧场",CCTV风云剧场
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.89:8000
-#EXTINF:-1 group-title="数字频道",CCTV风云音乐
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.92:8000
-#EXTINF:-1 group-title="数字频道",CCTV风云足球
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.85:8000
-#EXTINF:-1 group-title="数字频道",CCTV高尔夫网球
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.86:8000
-#EXTINF:-1 group-title="数字频道",CCTV怀旧剧场
+#EXTINF:-1 tvg-id="CCTV怀旧剧场" tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/CCTV怀旧剧场.png" group-title="影视剧场",CCTV怀旧剧场
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.91:8000
-#EXTINF:-1 group-title="数字频道",CCTV女性时尚
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.93:8000
-#EXTINF:-1 group-title="数字频道",CCTV世界地理
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.87:8000
-#EXTINF:-1 group-title="数字频道",CCTV电视指南
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.84:8000
-#EXTINF:-1 group-title="数字频道",CCTV央视台球
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.32:8000
-#EXTINF:-1 group-title="数字频道",CCTV央视文化精品
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.90:8000
-#EXTINF:-1 group-title="数字频道",生活时尚
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.40:8004
-#EXTINF:-1 group-title="数字频道",游戏风云
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.41:8012
-#EXTINF:-1 group-title="数字频道",动漫秀场
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.43:8028
-#EXTINF:-1 group-title="数字频道",乐游
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.44:8036
-#EXTINF:-1 group-title="数字频道",书画频道
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.123:8000
-#EXTINF:-1 group-title="数字频道",财富天下
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.166:9322
-#EXTINF:-1 group-title="数字频道",茶频道
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.146:8000
-#EXTINF:-1 group-title="数字频道",金鹰纪实
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.79:8000
-#EXTINF:-1 group-title="数字频道",快乐垂钓
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.114:8000
-#EXTINF:-1 group-title="数字频道",先锋乒羽
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.145:8000
-#EXTINF:-1 group-title="数字频道",梨园频道
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.193:8000
-#EXTINF:-1 group-title="数字频道",武术世界
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.205:8000
-#EXTINF:-1 group-title="数字频道",文物宝库
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.209:8000
-#EXTINF:-1 group-title="数字频道",金色学堂
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.31:8240
-#EXTINF:-1 group-title="数字频道",上海东方财经
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.95:8000
-#EXTINF:-1 group-title="数字频道",上海法治天地
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.96:8000
-#EXTINF:-1 group-title="数字频道",上海生活时尚
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.97:8000
-#EXTINF:-1 group-title="数字频道",上海都市剧场
+#EXTINF:-1 tvg-id="上海都市剧场" tvg-name="上海都市剧场" tvg-logo="https://live.fanmingming.com/tv/上海都市剧场.png" group-title="影视剧场",上海都市剧场
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.99:8000
-#EXTINF:-1 group-title="数字频道",上海第一财经
+
+# ===== 体育频道 (5) =====
+#EXTINF:-1 tvg-id="CCTV风云足球" tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.com/tv/CCTV风云足球.png" group-title="体育频道",CCTV风云足球
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.85:8000
+#EXTINF:-1 tvg-id="CCTV高尔夫网球" tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/CCTV高尔夫网球.png" group-title="体育频道",CCTV高尔夫网球
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.86:8000
+#EXTINF:-1 tvg-id="CCTV央视台球" tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.com/tv/CCTV央视台球.png" group-title="体育频道",CCTV央视台球
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.32:8000
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="体育频道",快乐垂钓
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.114:8000
+#EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="https://live.fanmingming.com/tv/先锋乒羽.png" group-title="体育频道",先锋乒羽
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.145:8000
+
+# ===== 体育赛事 (9) =====
+#EXTINF:-1 tvg-id="篮球世界" tvg-name="篮球世界" tvg-logo="https://live.fanmingming.com/tv/篮球世界.png" group-title="体育赛事",篮球世界
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.105:8000
+#EXTINF:-1 tvg-id="CBA直播1" tvg-name="CBA直播1" tvg-logo="https://live.fanmingming.com/tv/CBA直播1.png" group-title="体育赛事",CBA直播1
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.91:8000
+#EXTINF:-1 tvg-id="CBA直播2" tvg-name="CBA直播2" tvg-logo="https://live.fanmingming.com/tv/CBA直播2.png" group-title="体育赛事",CBA直播2
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.97:8000
+#EXTINF:-1 tvg-id="CBA直播3" tvg-name="CBA直播3" tvg-logo="https://live.fanmingming.com/tv/CBA直播3.png" group-title="体育赛事",CBA直播3
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.93:8000
+#EXTINF:-1 tvg-id="CBA直播4" tvg-name="CBA直播4" tvg-logo="https://live.fanmingming.com/tv/CBA直播4.png" group-title="体育赛事",CBA直播4
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.94:8000
+#EXTINF:-1 tvg-id="CBA直播5" tvg-name="CBA直播5" tvg-logo="https://live.fanmingming.com/tv/CBA直播5.png" group-title="体育赛事",CBA直播5
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.95:8000
+#EXTINF:-1 tvg-id="CBA直播6" tvg-name="CBA直播6" tvg-logo="https://live.fanmingming.com/tv/CBA直播6.png" group-title="体育赛事",CBA直播6
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.96:8000
+#EXTINF:-1 tvg-id="CBA直播8" tvg-name="CBA直播8" tvg-logo="https://live.fanmingming.com/tv/CBA直播8.png" group-title="体育赛事",CBA直播8
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.98:8000
+#EXTINF:-1 tvg-id="羽毛球直播" tvg-name="羽毛球直播" tvg-logo="https://live.fanmingming.com/tv/羽毛球直播.png" group-title="体育赛事",羽毛球直播
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.104:8000
+
+# ===== 新闻财经 (4) =====
+#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/财富天下.png" group-title="新闻财经",财富天下
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.166:9322
+#EXTINF:-1 tvg-id="上海东方财经" tvg-name="上海东方财经" tvg-logo="https://live.fanmingming.com/tv/上海东方财经.png" group-title="新闻财经",上海东方财经
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.95:8000
+#EXTINF:-1 tvg-id="上海法治天地" tvg-name="上海法治天地" tvg-logo="https://live.fanmingming.com/tv/上海法治天地.png" group-title="新闻财经",上海法治天地
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.96:8000
+#EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="新闻财经",上海第一财经
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.37:8000
 
-#EXTINF:-1 group-title="购物频道",好享购物
+# ===== 生活娱乐 (5) =====
+#EXTINF:-1 tvg-id="CCTV女性时尚" tvg-name="CCTV女性时尚" tvg-logo="https://live.fanmingming.com/tv/CCTV女性时尚.png" group-title="生活娱乐",CCTV女性时尚
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.93:8000
+#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="生活娱乐",生活时尚
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.40:8004
+#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="生活娱乐",游戏风云
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.41:8012
+#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="生活娱乐",乐游
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.44:8036
+#EXTINF:-1 tvg-id="上海生活时尚" tvg-name="上海生活时尚" tvg-logo="https://live.fanmingming.com/tv/上海生活时尚.png" group-title="生活娱乐",上海生活时尚
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.97:8000
+
+# ===== 少儿动漫 (4) =====
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="少儿动漫",金鹰卡通
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.33:8000
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="少儿动漫",优漫卡通
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.119:8000
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="少儿动漫",优漫卡通备用
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.21:8160
+#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="少儿动漫",动漫秀场
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.43:8028
+
+# ===== 教育频道 (5) =====
+#EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://live.fanmingming.com/tv/山东教育卫视.png" group-title="教育频道",山东教育卫视
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.235:8000
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="教育频道",CETV1
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.115:8000
+#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="教育频道",CETV2
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.71:8560
+#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="教育频道",CETV4
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.125:8000
+#EXTINF:-1 tvg-id="空中课堂" tvg-name="空中课堂" tvg-logo="https://live.fanmingming.com/tv/空中课堂.png" group-title="教育频道",空中课堂
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.72:8568
+
+# ===== 戏曲文化 (8) =====
+#EXTINF:-1 tvg-id="CCTV央视文化精品" tvg-name="CCTV央视文化精品" tvg-logo="https://live.fanmingming.com/tv/CCTV央视文化精品.png" group-title="戏曲文化",CCTV央视文化精品
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.90:8000
+#EXTINF:-1 tvg-id="书画频道" tvg-name="书画频道" tvg-logo="https://live.fanmingming.com/tv/书画频道.png" group-title="戏曲文化",书画频道
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.123:8000
+#EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://live.fanmingming.com/tv/茶频道.png" group-title="戏曲文化",茶频道
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.146:8000
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="戏曲文化",金鹰纪实
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.79:8000
+#EXTINF:-1 tvg-id="梨园频道" tvg-name="梨园频道" tvg-logo="https://live.fanmingming.com/tv/梨园频道.png" group-title="戏曲文化",梨园频道
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.193:8000
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="戏曲文化",武术世界
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.205:8000
+#EXTINF:-1 tvg-id="文物宝库" tvg-name="文物宝库" tvg-logo="https://live.fanmingming.com/tv/文物宝库.png" group-title="戏曲文化",文物宝库
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.209:8000
+#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="戏曲文化",金色学堂
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.31:8240
+
+# ===== 数字付费 (4) =====
+#EXTINF:-1 tvg-id="CCTV兵器科技" tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.com/tv/CCTV兵器科技.png" group-title="数字付费",CCTV兵器科技
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.88:8000
+#EXTINF:-1 tvg-id="CCTV风云音乐" tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.com/tv/CCTV风云音乐.png" group-title="数字付费",CCTV风云音乐
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.92:8000
+#EXTINF:-1 tvg-id="CCTV世界地理" tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.com/tv/CCTV世界地理.png" group-title="数字付费",CCTV世界地理
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.87:8000
+#EXTINF:-1 tvg-id="CCTV电视指南" tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.com/tv/CCTV电视指南.png" group-title="数字付费",CCTV电视指南
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.84:8000
+
+# ===== 国际频道 (2) =====
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="国际频道",CGTN
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.9:8064
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="国际频道",CGTN俄语
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.111:8000
+
+# ===== 导视专区 (10) =====
+#EXTINF:-1 tvg-id="精彩推荐高清" tvg-name="精彩推荐高清" tvg-logo="https://live.fanmingming.com/tv/精彩推荐高清.png" group-title="导视专区",精彩推荐高清
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.34:8612
+#EXTINF:-1 tvg-id="导视" tvg-name="导视" tvg-logo="https://live.fanmingming.com/tv/导视.png" group-title="导视专区",导视
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.80:8632
+#EXTINF:-1 tvg-id="精彩推荐" tvg-name="精彩推荐" tvg-logo="https://live.fanmingming.com/tv/精彩推荐.png" group-title="导视专区",精彩推荐
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.190:9458
+#EXTINF:-1 tvg-id="多机位1" tvg-name="多机位1" tvg-logo="https://live.fanmingming.com/tv/多机位1.png" group-title="导视专区",多机位1
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.65:9368
+#EXTINF:-1 tvg-id="多机位2" tvg-name="多机位2" tvg-logo="https://live.fanmingming.com/tv/多机位2.png" group-title="导视专区",多机位2
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.66:9372
+#EXTINF:-1 tvg-id="多机位3" tvg-name="多机位3" tvg-logo="https://live.fanmingming.com/tv/多机位3.png" group-title="导视专区",多机位3
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.67:9376
+#EXTINF:-1 tvg-id="4K跨年直播" tvg-name="4K跨年直播" tvg-logo="https://live.fanmingming.com/tv/4K跨年直播.png" group-title="导视专区",4K跨年直播
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.38:8000
+#EXTINF:-1 tvg-id="直播室1" tvg-name="直播室1" tvg-logo="https://live.fanmingming.com/tv/直播室1.png" group-title="导视专区",直播室1
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.151:6000
+#EXTINF:-1 tvg-id="直播室2" tvg-name="直播室2" tvg-logo="https://live.fanmingming.com/tv/直播室2.png" group-title="导视专区",直播室2
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.63:9354
+#EXTINF:-1 tvg-id="多画面导航" tvg-name="多画面导航" tvg-logo="https://live.fanmingming.com/tv/多画面导航.png" group-title="导视专区",多画面导航
+https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.73:8000
+
+# ===== 购物频道 (5) =====
+#EXTINF:-1 tvg-id="好享购物" tvg-name="好享购物" tvg-logo="https://live.fanmingming.com/tv/好享购物.png" group-title="购物频道",好享购物
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.121:8000
-#EXTINF:-1 group-title="购物频道",环球购物
+#EXTINF:-1 tvg-id="环球购物" tvg-name="环球购物" tvg-logo="https://live.fanmingming.com/tv/环球购物.png" group-title="购物频道",环球购物
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.123:8000
-#EXTINF:-1 group-title="购物频道",央广购物
+#EXTINF:-1 tvg-id="央广购物" tvg-name="央广购物" tvg-logo="https://live.fanmingming.com/tv/央广购物.png" group-title="购物频道",央广购物
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.39:8000
-#EXTINF:-1 group-title="购物频道",快乐购物
+#EXTINF:-1 tvg-id="快乐购物" tvg-name="快乐购物" tvg-logo="https://live.fanmingming.com/tv/快乐购物.png" group-title="购物频道",快乐购物
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.246:8000
-#EXTINF:-1 group-title="购物频道",家有购物
+#EXTINF:-1 tvg-id="家有购物" tvg-name="家有购物" tvg-logo="https://live.fanmingming.com/tv/家有购物.png" group-title="购物频道",家有购物
 https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.124:8000
 
-#EXTINF:-1 group-title="临时频道",精彩推荐高清
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.34:8612
-#EXTINF:-1 group-title="临时频道",导视
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.80:8632
-#EXTINF:-1 group-title="临时频道",精彩推荐
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.0.190:9458
-#EXTINF:-1 group-title="临时频道",篮球世界
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.105:8000
-#EXTINF:-1 group-title="临时频道",CBA直播1
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.91:8000
-#EXTINF:-1 group-title="临时频道",CBA直播2
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.97:8000
-#EXTINF:-1 group-title="临时频道",CBA直播3
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.93:8000
-#EXTINF:-1 group-title="临时频道",CBA直播4
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.94:8000
-#EXTINF:-1 group-title="临时频道",CBA直播5
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.95:8000
-#EXTINF:-1 group-title="临时频道",CBA直播6
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.96:8000
-#EXTINF:-1 group-title="临时频道",CBA直播8
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.98:8000
-#EXTINF:-1 group-title="临时频道",羽毛球直播
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.104:8000
-#EXTINF:-1 group-title="临时频道",多机位1
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.65:9368
-#EXTINF:-1 group-title="临时频道",多机位2
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.66:9372
-#EXTINF:-1 group-title="临时频道",多机位3
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.67:9376
-#EXTINF:-1 group-title="临时频道",4K跨年直播
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.38:8000
-#EXTINF:-1 group-title="临时频道",直播室1
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.151:6000
-#EXTINF:-1 group-title="临时频道",直播室2
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.63:9354
-#EXTINF:-1 group-title="临时频道",多画面导航
-https://ntiptv.wupengcheng.cn:2052//rtp/239.49.8.73:8000
